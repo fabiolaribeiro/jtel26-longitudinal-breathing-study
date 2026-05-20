@@ -21,13 +21,12 @@ The activity is also designed to support discussions about:
 ---
 
 Study Design
-
-![Study Timeline](images/study-timeline.png)
+!![Study Timeline](images/study-timeline.png)
 
 Context: Higher Education  
 Duration: 4 semesters  
 Design: Longitudinal mixed-method TEL study  
-Participants: Undergraduate students  
+Participants: Undergraduate students in STEAM domain
 Intervention: Short breathing exercise before selected learning activities
 
 ---
@@ -59,24 +58,8 @@ Students completing the same academic tasks without the breathing activity.
 
 Data Collection
 
-Quantitative Data
-- quiz scores
-- assignment grades
-- attendance
-- time-on-task
-- participation frequency
+<h1 align="center"> elaborate </h1>
 
-Qualitative Data
-- student reflections
-- wellbeing surveys
-- open-ended responses
-- perceived stress reports
-
-Multimodal Data
-- LMS interaction logs
-- clickstream data
-- timestamps
-- interaction sequences
 
 ---
 
