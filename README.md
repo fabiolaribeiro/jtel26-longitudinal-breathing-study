@@ -125,6 +125,8 @@ Example:
 - Participant P01 measured again during Period 2
 - Participant P01 measured again during Period 3
 
+---
+
 # Possible Analyses
 
 Participants may explore:
