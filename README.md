@@ -154,9 +154,18 @@ Participants may explore:
 Example mixed-effects model:
 
 \[
-ExamScore_{it} = \beta_0 + \beta_1 Week_t + \beta_2 Strawberries_{it} + \beta_3 StudyHours_{it} + \beta_4 Stress_{it} + u_i + \epsilon_{it}
+AcademicPerformance_{it} = \beta_0 + \beta_1 Time_t + \beta_2 BreathingIntervention_{it} + \beta_3 Engagement_{it} + \beta_4 StressLevel_{it} + u_i + \epsilon_{it}
 \]
 
+Where:
+
+- \(AcademicPerformance_{it}\) = academic performance of participant \(i\) at time \(t\)
+- \(Time_t\) = measurement occasion
+- \(BreathingIntervention_{it}\) = intervention condition
+- \(Engagement_{it}\) = engagement score
+- \(StressLevel_{it}\) = self-reported stress level
+- \(u_i\) = participant-level random effect
+- \(\epsilon_{it}\) = residual error
 
 ---
 
