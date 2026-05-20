@@ -2,7 +2,7 @@
 Breathing Exercise & Academic Performance  
 A Longitudinal TEL Study
 
-![Students Relaxing Before Academic Tasks](images/breathing-study-banner.png)
+![Students Relaxing Before Academic Tasks](moca.png)
 
 Can a short breathing exercise before academic activities improve students’ focus, wellbeing, engagement, and academic performance over time?
 
