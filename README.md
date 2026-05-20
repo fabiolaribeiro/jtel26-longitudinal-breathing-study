@@ -73,6 +73,12 @@ Overview:
 
 # Experimental groups
 
+| Group | Breathing Intervention |
+|---|---|
+| Control | No breathing exercise |
+| Standard Breathing | 2–3 min guided breathing before selected activities |
+| Dynamic Breathing | Student-triggered breathing exercises on demand |
+
 ---
 
 # Data Collection
