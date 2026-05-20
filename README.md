@@ -27,15 +27,7 @@ The activity is also designed to support discussions about:
 This workshop uses an artificial longitudinal dataset simulating student behavior over an 4 semesters of university study.
 Participants were randomly assigned to the  four different intake groups and repeatedly measured over time.
 
-The dataset was designed for teaching:
-
-**Context:** Higher Education  
-**Duration:** 4 semesters  
-**Design:** Longitudinal mixed-method TEL study  
-**Participants:** Undergraduate students in STEAM domain<br>
-**Intervention:** Short breathing exercise before selected learning activities
-
-Database features/details:
+The dataset was designed for teaching and has these features/details:
 
 - longitudinal data analysis
 - repeated measures
@@ -59,21 +51,23 @@ Possible activities:
 
 ---
 
-# Participants
+# Participants/Experimental Groups
 
-Group A  
-Students participating in breathing activities before academic tasks.
+- **Context:** Higher Education  
+- **Total participants**: 25 undergraduate students in STEAM domain
+- **Duration:** 4 semesters  
+- **Design:** Longitudinal mixed-method TEL study  
+**Intervention:** Short breathing exercise before selected learning activities
+- *Study duration**: 4  semesters
+- **Repeated measurements**: twice per week
 
-Group B  
-Students completing the same academic tasks without the breathing activity.
+**Each participant has their own:**
+- study habits
+- stress patterns
+- sleep behavior
+- compliance level
+- learning trajectory
 
-Each participant has their own:
-
-study habits
-stress patterns
-sleep behavior
-compliance level
-learning trajectory
 ---
 
 # Data Collection
