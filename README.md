@@ -35,8 +35,6 @@ Intervention: Short breathing exercise before selected learning activities
 
 Students complete a short breathing activity before selected tasks using the “fish breathing exercise”:
 
-https://www.youtube.com/shorts/5DlULOx-4ds
-
 Possible activities:
 - before quizzes
 - before online discussions
@@ -60,14 +58,6 @@ Students completing the same academic tasks without the breathing activity.
 
 <h1 align="center"> elaborate </h1>
 
-
----
-
-!# Possible Research Questions
-!- Does the breathing intervention influence academic performance over time?
-!- How do students describe their learning experience after breathing activities?
-!- Are there differences in engagement patterns between groups?
-!- Which multimodal indicators are associated with focus and wellbeing?
 
 ---
 
@@ -105,7 +95,7 @@ Students completing the same academic tasks without the breathing activity.
 
 # Workshop Reflection
 
-Imagine your research team has received €1 million in research funding from EATEL to investigate the effects of breathing exercises in Higher Education. How would you design the study to generate meaningful evidence about students’ learning, engagement, wellbeing, and academic performance over time?
+Imagine your research team has received €1 million in research funding from EATEL to investigate the effects of breathing exercises in Higher Education. **How would you design the study to generate meaningful evidence about students’ learning, engagement, wellbeing, and academic performance over time?**
 
 ---
 
