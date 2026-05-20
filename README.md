@@ -1,6 +1,5 @@
-# jtel26-longitudinal-breathing-study
-Breathing Exercise & Academic Performance  
-A Longitudinal TEL Study
+# Breathing Exercise & Academic Performance - A Longitudinal TEL Study
+
 
 ![Students Relaxing Before Academic Tasks](moca.png)
 
