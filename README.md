@@ -126,13 +126,6 @@ Example:
 - Participant P01 measured again during Period 3
 - 
 
-# Data Collection
-
-<h1 align="center"> elaborate </h1>
-
-
----
-
 # Possible Analyses
 
 - longitudinal analysis
@@ -141,17 +134,6 @@ Example:
 - behavioral sequence analysis
 - multimodal learning analytics
 - thematic analysis
-
----
-
-# Longitudinal Structure
-
-| Semester | Focus |
-|---|---|
-| Summer 2025 | Pilot intervention |
-| Winter 2025 | Expanded implementation |
-| Summer 2026 | Repeated assessments |
-| Winter 2026 | Longitudinal comparison |
 
 ---
 
@@ -167,7 +149,7 @@ Example:
 
 # Workshop Reflection
 
-Imagine your research team has received €1 million in research funding from EATEL to investigate the effects of breathing exercises in Higher Education. **How would you design the study to generate meaningful evidence about students’ learning, engagement, wellbeing, and academic performance over time?**
+Imagine your research team has received €4 million in research funding from EATEL to investigate the effects of breathing exercises in Higher Education. **How would you design the study to generate meaningful evidence about students’ learning, engagement, wellbeing, and academic performance over time?**
 
 ---
 
