@@ -21,7 +21,7 @@ The activity is also designed to support discussions about:
 ---
 
 # Study Design
-!![Study Timeline](images/study-timeline.png)
+!![Study Timeline](study-timeline.png)
 
 Context: Higher Education  
 Duration: 4 semesters  
