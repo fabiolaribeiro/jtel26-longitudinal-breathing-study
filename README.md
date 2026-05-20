@@ -53,6 +53,8 @@ Possible activities:
 
 # Participants/Experimental Groups
 
+# Overview: 
+
 - **Context:** Higher Education  
 - **Total participants**: 25 undergraduate students in STEAM domain
 - **Duration:** 4 semesters  
