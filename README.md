@@ -124,16 +124,39 @@ Example:
 - Participant P01 measured during Period 1
 - Participant P01 measured again during Period 2
 - Participant P01 measured again during Period 3
-- 
 
 # Possible Analyses
 
-- longitudinal analysis
-- engagement trajectories
+Participants may explore:
+
+### Statistical Analysis
+- descriptive statistics
+- group comparisons
+- longitudinal trajectories
 - mixed-effects models
+
+### Multimodal & Behavioral Analysis
 - behavioral sequence analysis
 - multimodal learning analytics
+
+### Qualitative Analysis
 - thematic analysis
+- student reflection analysis
+- open-ended response coding
+
+### Visualization
+- line plots
+- participant/engagement trajectories
+- group trends over time
+
+### Longitudinal Modeling
+
+Example mixed-effects model:
+
+\[
+ExamScore_{it} = \beta_0 + \beta_1 Week_t + \beta_2 Strawberries_{it} + \beta_3 StudyHours_{it} + \beta_4 Stress_{it} + u_i + \epsilon_{it}
+\]
+
 
 ---
 
