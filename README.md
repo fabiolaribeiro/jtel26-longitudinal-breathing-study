@@ -158,7 +158,6 @@ AcademicPerformance_{it} = \beta_0 + \beta_1 Time_t + \beta_2 BreathingIntervent
 \]
 
 Where:
-
 - \(AcademicPerformance_{it}\) = academic performance of participant \(i\) at time \(t\)
 - \(Time_t\) = measurement occasion
 - \(BreathingIntervention_{it}\) = intervention condition
