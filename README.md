@@ -26,7 +26,7 @@ The activity is also designed to support discussions about:
 **Context:** Higher Education  
 **Duration:** 4 semesters  
 **Design:** Longitudinal mixed-method TEL study  
-**Participants:** Undergraduate students in STEAM domain
+**Participants:** Undergraduate students in STEAM domain<br>
 **Intervention:** Short breathing exercise before selected learning activities
 
 ---
