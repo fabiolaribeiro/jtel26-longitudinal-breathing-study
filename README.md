@@ -7,7 +7,7 @@ Can a short breathing exercise before academic activities improve students’ fo
 
 ---
 
-Study Goal
+#Study Goal
 
 This fictional longitudinal study explores how short guided breathing exercises may influence students’ academic experience in Higher Education.
 
@@ -83,7 +83,7 @@ Possible Analyses
 
 ---
 
-Longitudinal Structure
+#Longitudinal Structure
 
 | Semester | Focus |
 |---|---|
@@ -94,7 +94,7 @@ Longitudinal Structure
 
 ---
 
-Ethical Considerations
+#Ethical Considerations
 
 - informed consent
 - voluntary participation
@@ -104,27 +104,10 @@ Ethical Considerations
 
 ---
 
-Workshop Reflection
+#Workshop Reflection
 
-How would you:
-- design the intervention?
-- organize the assessments?
-- define measurements?
-- collect evidence?
-- analyze multimodal data?
-- report longitudinal findings?
+Imagine your research team has received €1 million in research funding from EATEL to investigate the effects of breathing exercises in Higher Education. How would you design the study to generate meaningful evidence about students’ learning, engagement, wellbeing, and academic performance over time?
 
 ---
 
-Suggested Repository Structure
 
-```text
-project/
-│
-├── data/
-├── surveys/
-├── intervention_materials/
-├── analysis_scripts/
-├── visualizations/
-├── reports/
-└── README.md
