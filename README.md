@@ -58,7 +58,7 @@ Possible activities:
 - **Duration:** 4 semesters  
 - **Design:** Longitudinal mixed-method TEL study  
 **Intervention:** Short breathing exercise before selected learning activities
-- *Study duration**: 4  semesters
+- **Study duration**: 4  semesters
 - **Repeated measurements**: twice per week
 
 **Each participant has their own:**
