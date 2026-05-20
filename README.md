@@ -23,23 +23,38 @@ The activity is also designed to support discussions about:
 # Study Design
 ![Study Timeline](study-timeline.png)
 
+# Overview
+This workshop uses an artificial longitudinal dataset simulating student behavior over an 4 semesters of university study.
+Participants were randomly assigned to the  four different intake groups and repeatedly measured over time.
+
+The dataset was designed for teaching:
+
 **Context:** Higher Education  
 **Duration:** 4 semesters  
 **Design:** Longitudinal mixed-method TEL study  
 **Participants:** Undergraduate students in STEAM domain<br>
 **Intervention:** Short breathing exercise before selected learning activities
 
+Database features/details:
+
+- longitudinal data analysis
+- repeated measures
+- mixed-effects models
+- growth trajectories
+- multilevel modeling
+- visualization of longitudinal trends
+
 ---
 
 # Intervention
 
-Students complete a short breathing activity before selected tasks using the controlled breathing exercise”:
+Students complete a short breathing activity before selected tasks using the controlled breathing exercise:
 
 Possible activities:
-- before quizzes
-- before online discussions
-- before presentations
-- before exams
+- before academic quizzes
+- before online academic discussions
+- before academic presentations
+- before academic exams
 - during stressful academic periods
 
 ---
@@ -52,6 +67,13 @@ Students participating in breathing activities before academic tasks.
 Group B  
 Students completing the same academic tasks without the breathing activity.
 
+Each participant has their own:
+
+study habits
+stress patterns
+sleep behavior
+compliance level
+learning trajectory
 ---
 
 # Data Collection
