@@ -20,7 +20,7 @@ The activity is also designed to support discussions about:
 
 ---
 
-Study Design
+# Study Design
 !![Study Timeline](images/study-timeline.png)
 
 Context: Higher Education  
@@ -31,7 +31,7 @@ Intervention: Short breathing exercise before selected learning activities
 
 ---
 
-Intervention
+# Intervention
 
 Students complete a short breathing activity before selected tasks using the “fish breathing exercise”:
 
@@ -46,7 +46,7 @@ Possible activities:
 
 ---
 
-Participants
+# Participants
 
 Group A  
 Students participating in breathing activities before academic tasks.
@@ -56,23 +56,22 @@ Students completing the same academic tasks without the breathing activity.
 
 ---
 
-Data Collection
+# Data Collection
 
 <h1 align="center"> elaborate </h1>
 
 
 ---
 
-Possible Research Questions
-
-- Does the breathing intervention influence academic performance over time?
-- How do students describe their learning experience after breathing activities?
-- Are there differences in engagement patterns between groups?
-- Which multimodal indicators are associated with focus and wellbeing?
+!# Possible Research Questions
+!- Does the breathing intervention influence academic performance over time?
+!- How do students describe their learning experience after breathing activities?
+!- Are there differences in engagement patterns between groups?
+!- Which multimodal indicators are associated with focus and wellbeing?
 
 ---
 
-Possible Analyses
+# Possible Analyses
 
 - longitudinal analysis
 - engagement trajectories
@@ -83,7 +82,7 @@ Possible Analyses
 
 ---
 
-#Longitudinal Structure
+# Longitudinal Structure
 
 | Semester | Focus |
 |---|---|
@@ -94,7 +93,7 @@ Possible Analyses
 
 ---
 
-#Ethical Considerations
+# Ethical Considerations
 
 - informed consent
 - voluntary participation
@@ -104,7 +103,7 @@ Possible Analyses
 
 ---
 
-#Workshop Reflection
+# Workshop Reflection
 
 Imagine your research team has received €1 million in research funding from EATEL to investigate the effects of breathing exercises in Higher Education. How would you design the study to generate meaningful evidence about students’ learning, engagement, wellbeing, and academic performance over time?
 
