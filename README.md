@@ -23,7 +23,7 @@ The activity is also designed to support discussions about:
 # Study Design
 ![Study Timeline](study-timeline.png)
 
-# Overview
+Overview
 This workshop uses an artificial longitudinal dataset simulating student behavior over an 4 semesters of university study.
 Participants were randomly assigned to the  four different intake groups and repeatedly measured over time.
 
@@ -53,8 +53,7 @@ Possible activities:
 
 # Participants/Experimental Groups
 
-# Overview: 
-
+Overview: 
 - **Context:** Higher Education  
 - **Total participants**: 25 undergraduate students in STEAM domain
 - **Duration:** 4 semesters  
