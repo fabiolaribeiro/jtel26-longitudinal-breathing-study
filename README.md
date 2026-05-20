@@ -9,7 +9,7 @@ Can a short breathing exercise before academic activities improve students’ fo
 
 # Study Goal
 
-This fictional longitudinal study explores how short guided breathing exercises may influence students’ academic experience in Higher Education.
+This longitudinal study explores how short guided breathing exercises may influence students’ academic experience in Higher Education.
 
 The activity is also designed to support discussions about:
 - longitudinal TEL research
@@ -21,7 +21,7 @@ The activity is also designed to support discussions about:
 ---
 
 # Study Design
-!![Study Timeline](study-timeline.png)
+![Study Timeline](study-timeline.png)
 
 **Context:** Higher Education  
 **Duration:** 4 semesters  
