@@ -21,7 +21,7 @@ The activity is also designed to support discussions about:
 ---
 
 # Study Design
-![Study Timeline](study-timeline.png)
+![Study Timeline](study-timeline2.png)
 
 Overview
 This workshop uses an artificial longitudinal dataset simulating student behavior over an 4 semesters of university study.
@@ -68,6 +68,10 @@ Overview:
 - sleep behavior
 - compliance level
 - learning trajectory
+
+---
+
+# Experimental groups
 
 ---
 
