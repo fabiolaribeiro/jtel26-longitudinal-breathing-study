@@ -33,7 +33,7 @@ The activity is also designed to support discussions about:
 
 # Intervention
 
-Students complete a short breathing activity before selected tasks using the “fish breathing exercise”:
+Students complete a short breathing activity before selected tasks using the controlled breathing exercise”:
 
 Possible activities:
 - before quizzes
